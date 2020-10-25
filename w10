@@ -828,7 +828,7 @@
 0.0.0.0 telecommand.telemetry.microsoft.com.nsat­c.net
 0.0.0.0 telemetry.appex.bing.com
 0.0.0.0 telemetry.appex.bing.net
-0.0.0.0 telemetry.appex.bing.net:443
+0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 telemetry.remoteapp.windowsazure.com
@@ -996,7 +996,7 @@
 0.0.0.0 www.telecommand.telemetry.microsoft.com
 0.0.0.0 www.telecommand.telemetry.microsoft.com.nsatc.net
 0.0.0.0 www.telemetry.appex.bing.net
-0.0.0.0 www.telemetry.appex.bing.net:443
+0.0.0.0 www.telemetry.appex.bing.net
 0.0.0.0 www.telemetry.microsoft.com
 0.0.0.0 www.telemetry.urs.microsoft.com
 0.0.0.0 www.ui.skype.com
